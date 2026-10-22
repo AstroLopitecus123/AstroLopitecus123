@@ -1,4 +1,8 @@
 <div align="center">
+  <a href="./README.md">ESPAÑOL</a> • <a href="./README.en.md">ENGLISH</a>
+</div>
+
+<div align="center">
   <img src="./assets/BannerInicio.png" alt="Banner Inicio" width="100%" />
 </div>
 
